@@ -1,0 +1,7 @@
+C:\Users\Murat\source\repos\DatatableToListConverter\DatatableToListConverter\bin\Debug\DatatableToListConverter.exe.config
+C:\Users\Murat\source\repos\DatatableToListConverter\DatatableToListConverter\bin\Debug\DatatableToListConverter.exe
+C:\Users\Murat\source\repos\DatatableToListConverter\DatatableToListConverter\bin\Debug\DatatableToListConverter.pdb
+C:\Users\Murat\source\repos\DatatableToListConverter\DatatableToListConverter\obj\Debug\DatatableToListConverter.csproj.CoreCompileInputs.cache
+C:\Users\Murat\source\repos\DatatableToListConverter\DatatableToListConverter\obj\Debug\DatatableToListConverter.exe
+C:\Users\Murat\source\repos\DatatableToListConverter\DatatableToListConverter\obj\Debug\DatatableToListConverter.pdb
+C:\Users\Murat\source\repos\DatatableToListConverter\DatatableToListConverter\obj\Debug\DatatableToListConverter.csprojAssemblyReference.cache
