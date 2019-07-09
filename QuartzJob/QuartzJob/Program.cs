@@ -12,10 +12,8 @@ namespace QuartzJob
     {
         static  void Main(string[] args)
         {
-
             Run();
             Console.ReadLine();
-
         }
 
 
@@ -25,20 +23,33 @@ namespace QuartzJob
 
             await scheduler.Start();
 
-            IJobDetail job = JobBuilder.Create<HiFiveJob>().Build();
+            IJobDetail job = JobBuilder.Create<HiFiveJob>()
+                .WithIdentity("myJob","group1")
+                .Build();
 
 
             ITrigger trigger = TriggerBuilder.Create()
+            .WithIdentity("myTrigger","group1")    
             .WithDailyTimeIntervalSchedule
               (s =>
                  s
                 .WithIntervalInMinutes(1) 
-                .StartingDailyAt(TimeOfDay.HourAndMinuteOfDay(16, 50))
+                .StartingDailyAt(TimeOfDay.HourAndMinuteOfDay(8, 50))
               )
+              .EndAt(DateBuilder.DateOf(9, 15, 0, 4, 7, 2019))
+              .ForJob("myJob","group1")
             .Build();
+
+            TriggerKey key = new TriggerKey("myTrigger", "group1");
+
+            if (await scheduler.GetTriggerState(key) == TriggerState.Complete)
+            {
+                Console.WriteLine("Job completed");
+            }
 
             scheduler.ScheduleJob(job, trigger);
 
+           
         }
     }
 
@@ -50,8 +61,13 @@ namespace QuartzJob
             {
                 var now = DateTime.Now;
                 Console.WriteLine($"Job is executed at {now}");
+
             });
-           
+
+
+
+
+
         }
     }
 }

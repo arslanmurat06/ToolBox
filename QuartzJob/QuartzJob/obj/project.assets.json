@@ -96,11 +96,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Murat\\source\\repos\\QuartzJob\\QuartzJob\\QuartzJob.csproj",
+      "projectUniqueName": "C:\\Users\\Murat\\source\\repos\\ToolBox\\ToolBox\\QuartzJob\\QuartzJob\\QuartzJob.csproj",
       "projectName": "QuartzJob",
-      "projectPath": "C:\\Users\\Murat\\source\\repos\\QuartzJob\\QuartzJob\\QuartzJob.csproj",
+      "projectPath": "C:\\Users\\Murat\\source\\repos\\ToolBox\\ToolBox\\QuartzJob\\QuartzJob\\QuartzJob.csproj",
       "packagesPath": "C:\\Users\\Murat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Murat\\source\\repos\\QuartzJob\\QuartzJob\\obj\\",
+      "outputPath": "C:\\Users\\Murat\\source\\repos\\ToolBox\\ToolBox\\QuartzJob\\QuartzJob\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

@@ -8,3 +8,13 @@ C:\Users\Murat\source\repos\QuartzJob\QuartzJob\bin\Debug\Quartz.pdb
 C:\Users\Murat\source\repos\QuartzJob\QuartzJob\obj\Debug\QuartzJob.csproj.CopyComplete
 C:\Users\Murat\source\repos\QuartzJob\QuartzJob\obj\Debug\QuartzJob.exe
 C:\Users\Murat\source\repos\QuartzJob\QuartzJob\obj\Debug\QuartzJob.pdb
+C:\Users\Murat\source\repos\ToolBox\ToolBox\QuartzJob\QuartzJob\bin\Debug\QuartzJob.exe.config
+C:\Users\Murat\source\repos\ToolBox\ToolBox\QuartzJob\QuartzJob\bin\Debug\QuartzJob.exe
+C:\Users\Murat\source\repos\ToolBox\ToolBox\QuartzJob\QuartzJob\bin\Debug\QuartzJob.pdb
+C:\Users\Murat\source\repos\ToolBox\ToolBox\QuartzJob\QuartzJob\bin\Debug\Quartz.dll
+C:\Users\Murat\source\repos\ToolBox\ToolBox\QuartzJob\QuartzJob\bin\Debug\Quartz.pdb
+C:\Users\Murat\source\repos\ToolBox\ToolBox\QuartzJob\QuartzJob\obj\Debug\QuartzJob.csprojAssemblyReference.cache
+C:\Users\Murat\source\repos\ToolBox\ToolBox\QuartzJob\QuartzJob\obj\Debug\QuartzJob.csproj.CoreCompileInputs.cache
+C:\Users\Murat\source\repos\ToolBox\ToolBox\QuartzJob\QuartzJob\obj\Debug\QuartzJob.csproj.CopyComplete
+C:\Users\Murat\source\repos\ToolBox\ToolBox\QuartzJob\QuartzJob\obj\Debug\QuartzJob.exe
+C:\Users\Murat\source\repos\ToolBox\ToolBox\QuartzJob\QuartzJob\obj\Debug\QuartzJob.pdb
