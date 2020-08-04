@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\DesignPatterns\ObservableDesignPattern\ObservableDesignPattern\bin\Debug\ObservableDesignPattern.exe.config
+C:\Users\user\source\repos\DesignPatterns\ObservableDesignPattern\ObservableDesignPattern\bin\Debug\ObservableDesignPattern.exe
+C:\Users\user\source\repos\DesignPatterns\ObservableDesignPattern\ObservableDesignPattern\bin\Debug\ObservableDesignPattern.pdb
+C:\Users\user\source\repos\DesignPatterns\ObservableDesignPattern\ObservableDesignPattern\obj\Debug\ObservableDesignPattern.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DesignPatterns\ObservableDesignPattern\ObservableDesignPattern\obj\Debug\ObservableDesignPattern.exe
+C:\Users\user\source\repos\DesignPatterns\ObservableDesignPattern\ObservableDesignPattern\obj\Debug\ObservableDesignPattern.pdb
