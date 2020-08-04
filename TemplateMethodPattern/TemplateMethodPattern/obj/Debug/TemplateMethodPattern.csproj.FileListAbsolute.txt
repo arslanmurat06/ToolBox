@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+C:\Users\user\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+C:\Users\user\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+C:\Users\user\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+C:\Users\user\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb
