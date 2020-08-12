@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\GenericSampleProvider\GenericSampleProvider\bin\Debug\GenericSampleProvider.exe.config
+C:\Users\user\source\repos\GenericSampleProvider\GenericSampleProvider\bin\Debug\GenericSampleProvider.exe
+C:\Users\user\source\repos\GenericSampleProvider\GenericSampleProvider\bin\Debug\GenericSampleProvider.pdb
+C:\Users\user\source\repos\GenericSampleProvider\GenericSampleProvider\bin\Debug\System.ValueTuple.dll
+C:\Users\user\source\repos\GenericSampleProvider\GenericSampleProvider\obj\Debug\GenericSampleProvider.csprojAssemblyReference.cache
+C:\Users\user\source\repos\GenericSampleProvider\GenericSampleProvider\obj\Debug\GenericSampleProvider.csproj.CopyComplete
+C:\Users\user\source\repos\GenericSampleProvider\GenericSampleProvider\obj\Debug\GenericSampleProvider.exe
+C:\Users\user\source\repos\GenericSampleProvider\GenericSampleProvider\obj\Debug\GenericSampleProvider.pdb
