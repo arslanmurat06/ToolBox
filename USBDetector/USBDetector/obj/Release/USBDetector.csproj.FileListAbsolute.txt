@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\USBDetector\USBDetector\bin\Release\USBDetector.exe.config
+C:\Users\user\source\repos\USBDetector\USBDetector\bin\Release\USBDetector.exe
+C:\Users\user\source\repos\USBDetector\USBDetector\bin\Release\USBDetector.pdb
+C:\Users\user\source\repos\USBDetector\USBDetector\obj\Release\USBDetector.exe
+C:\Users\user\source\repos\USBDetector\USBDetector\obj\Release\USBDetector.pdb
+C:\Users\user\source\repos\USBDetector\USBDetector\obj\Release\USBDetector.csprojAssemblyReference.cache
