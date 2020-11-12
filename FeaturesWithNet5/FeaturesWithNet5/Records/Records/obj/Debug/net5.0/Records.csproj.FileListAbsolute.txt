@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\bin\Debug\net5.0\Records.exe
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\bin\Debug\net5.0\Records.deps.json
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\bin\Debug\net5.0\Records.runtimeconfig.json
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\bin\Debug\net5.0\Records.runtimeconfig.dev.json
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\bin\Debug\net5.0\Records.dll
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\bin\Debug\net5.0\ref\Records.dll
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\bin\Debug\net5.0\Records.pdb
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\obj\Debug\net5.0\Records.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\obj\Debug\net5.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\obj\Debug\net5.0\Records.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\obj\Debug\net5.0\Records.AssemblyInfo.cs
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\obj\Debug\net5.0\Records.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\obj\Debug\net5.0\Records.dll
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\obj\Debug\net5.0\ref\Records.dll
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\obj\Debug\net5.0\Records.pdb
+C:\Users\user\source\repos\Toolbox\ToolBox\FeaturesWithNet5\FeaturesWithNet5\Records\Records\obj\Debug\net5.0\Records.genruntimeconfig.cache
