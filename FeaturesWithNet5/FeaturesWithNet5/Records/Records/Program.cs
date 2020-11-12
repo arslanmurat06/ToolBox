@@ -52,8 +52,16 @@ namespace Records
 
 
             Human human = new Human("Murat", "Arslan");
+            Human human1 =human with { };
 
-            
+
+            //can make comparison
+            Console.WriteLine(person == person1); // => false
+            Console.WriteLine(human == human1); // => true
+
+           
+
+
 
             Console.Read();
 
