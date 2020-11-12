@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\USBDetector\\USBDetector\\USBDetector.csproj": {}
+    "C:\\Users\\user\\source\\repos\\Toolbox\\ToolBox\\USBDetector\\USBDetector\\USBDetector.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\USBDetector\\USBDetector\\USBDetector.csproj": {
+    "C:\\Users\\user\\source\\repos\\Toolbox\\ToolBox\\USBDetector\\USBDetector\\USBDetector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\USBDetector\\USBDetector\\USBDetector.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Toolbox\\ToolBox\\USBDetector\\USBDetector\\USBDetector.csproj",
         "projectName": "USBDetector",
-        "projectPath": "C:\\Users\\user\\source\\repos\\USBDetector\\USBDetector\\USBDetector.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Toolbox\\ToolBox\\USBDetector\\USBDetector\\USBDetector.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\USBDetector\\USBDetector\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Toolbox\\ToolBox\\USBDetector\\USBDetector\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [

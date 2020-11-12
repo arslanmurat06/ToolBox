@@ -4,3 +4,9 @@ C:\Users\user\source\repos\USBDetector\USBDetector\bin\Debug\USBDetector.pdb
 C:\Users\user\source\repos\USBDetector\USBDetector\obj\Debug\USBDetector.csprojAssemblyReference.cache
 C:\Users\user\source\repos\USBDetector\USBDetector\obj\Debug\USBDetector.exe
 C:\Users\user\source\repos\USBDetector\USBDetector\obj\Debug\USBDetector.pdb
+C:\Users\user\source\repos\Toolbox\ToolBox\USBDetector\USBDetector\bin\Debug\USBDetector.exe.config
+C:\Users\user\source\repos\Toolbox\ToolBox\USBDetector\USBDetector\bin\Debug\USBDetector.exe
+C:\Users\user\source\repos\Toolbox\ToolBox\USBDetector\USBDetector\bin\Debug\USBDetector.pdb
+C:\Users\user\source\repos\Toolbox\ToolBox\USBDetector\USBDetector\obj\Debug\USBDetector.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Toolbox\ToolBox\USBDetector\USBDetector\obj\Debug\USBDetector.exe
+C:\Users\user\source\repos\Toolbox\ToolBox\USBDetector\USBDetector\obj\Debug\USBDetector.pdb
