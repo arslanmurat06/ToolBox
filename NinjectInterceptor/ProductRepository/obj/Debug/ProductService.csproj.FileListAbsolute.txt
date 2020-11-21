@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\bin\Debug\ProductRepository.dll
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\bin\Debug\ProductRepository.pdb
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\obj\Debug\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\obj\Debug\ProductRepository.dll
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\obj\Debug\ProductRepository.pdb
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\obj\Debug\ProductService.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\bin\Debug\LoggerService.dll
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\bin\Debug\Serilog.dll
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\bin\Debug\LoggerService.pdb
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\obj\Debug\ProductService.csproj.CopyComplete

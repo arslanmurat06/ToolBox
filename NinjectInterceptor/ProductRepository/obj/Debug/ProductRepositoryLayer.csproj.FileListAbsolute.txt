@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\obj\Debug\ProductRepositoryLayer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\obj\Debug\ProductRepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\bin\Debug\ProductRepository.dll
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\bin\Debug\ProductRepository.pdb
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\obj\Debug\ProductRepository.dll
+C:\Users\user\source\repos\NinjectInterceptor\ProductRepository\obj\Debug\ProductRepository.pdb

@@ -12,13 +12,14 @@ namespace Records
     {
         public string Name { get; set; }
         public string Surname { get; set; }
+        public int Age { get; set; }
     }
 
 
     ////////////////////Part -2 \\\\\\\\\\\\\\\\\\\\\\\\
     //with constructor and immutable properties
 
-    public record Human
+    public record Human 
     {
         public string Name { get; init; }
         public string Surname { get; init; }
