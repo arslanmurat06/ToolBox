@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\LazySingleton\LazySingleton\obj\Debug\netcoreapp3.1\LazySingleton.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LazySingleton\LazySingleton\obj\Debug\netcoreapp3.1\LazySingleton.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LazySingleton\LazySingleton\obj\Debug\netcoreapp3.1\LazySingleton.AssemblyInfo.cs
+C:\Users\user\source\repos\LazySingleton\LazySingleton\obj\Debug\netcoreapp3.1\LazySingleton.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LazySingleton\LazySingleton\bin\Debug\netcoreapp3.1\LazySingleton.exe
+C:\Users\user\source\repos\LazySingleton\LazySingleton\bin\Debug\netcoreapp3.1\LazySingleton.deps.json
+C:\Users\user\source\repos\LazySingleton\LazySingleton\bin\Debug\netcoreapp3.1\LazySingleton.runtimeconfig.json
+C:\Users\user\source\repos\LazySingleton\LazySingleton\bin\Debug\netcoreapp3.1\LazySingleton.runtimeconfig.dev.json
+C:\Users\user\source\repos\LazySingleton\LazySingleton\bin\Debug\netcoreapp3.1\LazySingleton.dll
+C:\Users\user\source\repos\LazySingleton\LazySingleton\bin\Debug\netcoreapp3.1\LazySingleton.pdb
+C:\Users\user\source\repos\LazySingleton\LazySingleton\obj\Debug\netcoreapp3.1\LazySingleton.dll
+C:\Users\user\source\repos\LazySingleton\LazySingleton\obj\Debug\netcoreapp3.1\LazySingleton.pdb
+C:\Users\user\source\repos\LazySingleton\LazySingleton\obj\Debug\netcoreapp3.1\LazySingleton.genruntimeconfig.cache
